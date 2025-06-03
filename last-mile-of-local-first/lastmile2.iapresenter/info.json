@@ -1,0 +1,15 @@
+{
+  "creatorIdentifier" : "net.ia.presenter",
+  "net.ia.presenter" : {
+    "appearance" : "light",
+    "darktitletextcolor" : "#000000",
+    "lightbackgroundcolor" : "#fffeff",
+    "lightbodytextcolor" : "#fffeff",
+    "localFileIdentifier" : "CFA849C5-7DC1-4463-B03B-2301227BAB68",
+    "preset" : "Default",
+    "template" : "new york"
+  },
+  "transient" : false,
+  "type" : "net.daringfireball.markdown",
+  "version" : 2
+}
