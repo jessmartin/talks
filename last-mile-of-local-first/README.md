@@ -17,7 +17,7 @@ npm install -g @marp-team/marp-cli
 To serve and auto-reload on changes:
 
 ```bash
-marp slides.md --html --watch --serve
+marp . --html --watch --server
 ```
 
 - Opens at http://localhost:8080
